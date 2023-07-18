@@ -1,0 +1,63 @@
+[ISTANBUL]
+
+Seaports
+
+3401-Ambarlı Limanı (40.938889, 28.703889)
+3402-Galataport (41.016667, 28.983333)
+3403-Haydarpaşa Limanı (40.994444, 29.005556)
+3404-Yenikapı Limanı (41.022222, 28.952778)
+3405-Tuzla Limanı (40.894444, 29.016667)
+3406-Aliağa Limanı (38.666667, 26.733333)
+3407-Ambarlı Liman İşletmeleri (40.938889, 28.703889)
+3408-Türk Denizcilik İşletmeleri (41.000000, 29.000000)
+3409-İstanbul Liman İşletmecileri Derneği (41.000000, 29.000000)
+3410-İstanbul Denizcilik Odası (41.000000, 29.000000)
+
+Marinas
+
+3411-Karaköy Marina (41.016667, 28.983333)
+3412-Kuruçeşme Marina (41.022222, 28.952778)
+3413-Bebek Marina (41.022222, 28.952778)
+3414-Arnavutköy Marina (41.050000, 28.916667)
+3415-Sarıyer Marina (41.050000, 28.916667)
+3416-Beykoz Marina (41.066667, 28.916667)
+3417-Üsküdar Marina (41.083333, 28.916667)
+3418-Kadıköy Marina (41.083333, 28.916667)
+3419-Pendik Marina (41.116667, 28.916667)
+3420-Maltepe Marina (41.133333, 28.916667)
+
+[IZMIR]
+
+Seaports
+
+3501-İzmir Limanı (38.421944, 27.171944)
+3502-Aliağa Limanı (38.666667, 26.733333)
+3503-Çandarlı Limanı (38.783333, 26.666667)
+3504-Foça Limanı (38.516667, 26.916667)
+3505-Seferihisar Limanı (38.366667, 27.116667)
+
+Marinas
+
+3506-Konak Marina (38.421944, 27.171944)
+3507-Alsancak Marina (38.421944, 27.171944)
+3508-Karşıyaka Marina (38.400000, 27.150000)
+3509-Bostanlı Marina (38.416667, 27.166667)
+3510-Göztepe Marina (38.416667, 27.166667)
+
+[MANISA]
+
+Seaports
+
+4801-Muğla Limanı (37.066667, 28.250000)
+4802-Marmaris Limanı (36.883333, 28.333333)
+4803-Fethiye Limanı (36.816667, 28.416667)
+4804-Bodrum Limanı (37.000000, 27.166667)
+4805-Datça Limanı (37.166667, 27.416667)
+
+Marinas
+
+4806-Bodrum Marina (37.000000, 27.166667)
+4807-Marmaris Marina (36.883333, 28.333333)
+4808-Fethiye Marina (36.816667, 28.416667)
+4809-Datça Marina (37.166667, 27.416667)
+4810-Turgutreis Marina (36.950000, 27.500000)
