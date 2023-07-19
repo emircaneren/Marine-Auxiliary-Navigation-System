@@ -61,3 +61,39 @@ Marinas
 4808-Fethiye Marina (36.816667, 28.416667)
 4809-Datça Marina (37.166667, 27.416667)
 4810-Turgutreis Marina (36.950000, 27.500000)
+
+[BALIKESIR]
+
+Seaports
+
+1001-Bandırma Limanı (40.441667, 27.691667)
+1002-Erdek Limanı (40.500000, 27.866667)
+1003-Ayvalık Limanı (39.950000, 26.716667)
+1004-Burhaniye Limanı (39.750000, 26.666667)
+1005-Sarımsaklı Limanı (39.750000, 26.666667)
+
+Marinas
+
+1006-Bandırma Marina (40.441667, 27.691667)
+1007-Erdek Marina (40.500000, 27.866667)
+1008-Ayvalık Marina (39.950000, 26.716667)
+1009-Burhaniye Marina (39.750000, 26.666667)
+1010-Sarımsaklı Marina (39.750000, 26.666667)
+
+[ANTALYA]
+
+Seaports
+
+0701-Antalya Limanı (36.875000, 30.733333)
+0702-Kemer Limanı (36.533333, 30.366667)
+0703-Alanya Limanı (36.416667, 32.033333)
+0704-Manavgat Limanı (36.700000, 31.800000)
+0705-Fethiye Limanı (36.750000, 28.933333)
+
+Marinas
+
+0706-Antalya Marina (36.875000, 30.733333)
+0707-Kemer Marina (36.533333, 30.366667)
+0708-Alanya Marina (36.416667, 32.033333)
+0709-Manavgat Marina (36.700000, 31.800000)
+0710-Fethiye Marina (36.750000, 28.933333)
