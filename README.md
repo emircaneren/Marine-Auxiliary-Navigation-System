@@ -1,7 +1,7 @@
 # [MANS] Marine-Auxiliary-Navigation-System
 
 
-This project is an auxiliary manual assistant system running on low-end Linux-hosted computers on boats.
+This project is an auxiliary manual assistant system running on low-end computers on boats.
 
 
 ![Logo](https://raw.githubusercontent.com/emircaneren/Marine-Auxiliary-Navigation-System/main/manslogo.png)
@@ -13,6 +13,7 @@ This project is an auxiliary manual assistant system running on low-end Linux-ho
 
 [Open Source Changes]
         
+		- Three MANS screenshot was added. 
         - The old Weather-Process code block has been shared as Open Source because it has been deprecated "location-processes.py" 
 		
 [Background Changes]
