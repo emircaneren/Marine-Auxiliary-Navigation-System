@@ -9,6 +9,17 @@ This project is an auxiliary manual assistant system running on low-end Linux-ho
     
 ## Changelog
 
+08.11.2023
+
+[Open Source Changes]
+        
+        - The old Weather-Process code block has been shared as Open Source because it has been deprecated "location-processes.py" 
+		
+[Background Changes]
+
+		- .NET Core version development was started.
+		-  Planning to add a communication system to use a between MANS sailors
+
 29.06.2023 - 18.07.2023
 
 [Open Source Changes]
