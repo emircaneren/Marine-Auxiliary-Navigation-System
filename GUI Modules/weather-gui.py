@@ -38,15 +38,15 @@ def get_weather():
     sea_label.pack()
 
 root = tk.Tk()
-root.title("Hava Durumu Uygulaması")
+root.title("MANS Weather GUI")
 
-label = tk.Label(root, text="Lokasyonu girin:")
+label = tk.Label(root, text="Lokasyon:")
 label.pack()
 
 entry = tk.Entry(root)
 entry.pack()
 
-button = tk.Button(root, text="Hava Durumu Al", command=get_weather)
+button = tk.Button(root, text="get_weather", command=get_weather)
 button.pack()
 
 root.mainloop()
