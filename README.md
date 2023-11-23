@@ -9,6 +9,12 @@ This project is an auxiliary manual assistant system running on low-end computer
     
 ## Changelog
 
+23.11.2023
+
+[Open Source Changes]
+        
+		- GUI test modules added, you can find in GUI Modules folder. 
+
 08.11.2023
 
 [Open Source Changes]
